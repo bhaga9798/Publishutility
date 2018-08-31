@@ -1,0 +1,4 @@
+“C:\Program Files\gs\gs9.21\bin\gswin64c.exe" -dBATCH -dSAFER -dNOPAUSE -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -dAutoRotatePages=/PageByPage -r600 -sOutputFile="%f" - 
+
+
+Note: The Path is the location where Ghostscript has originally been installed in your PC.
